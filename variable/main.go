@@ -41,5 +41,5 @@ func main() {
 
 	fmt.Println(scoreOne, scoreTwo, scoreThree)
 
-	
+	 
 }
