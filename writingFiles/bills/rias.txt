@@ -1,0 +1,5 @@
+Bill breakdown: 
+coffee:                   ...$5.99
+chocolate:                ...$2.99
+Tip:                      ...$10.00
+Total:                    ...$18.98
